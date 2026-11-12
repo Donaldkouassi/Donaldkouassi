@@ -5,7 +5,7 @@
 Je relie deux mondes : la **communication institutionnelle** et la **data**. Je construis des pipelines de données fiables et je transforme les chiffres en messages clairs.
 
 - 🎓 Master 2 Data Engineering, ISAE-ISM Paris (2025-2026)
-- 📊 Master 1 Probabilités & Statistique, spécialité Statistique, UFHB (2025-2026)
+- 📊 Master 2 Probabilités & Statistique, spécialité Statistique, UFHB (2025-2026)
 - 🤖 MBA Big Data & Intelligence Artificielle, STUDI (certification prévue en 2027)
 - 🏥 Chargé de communication au CNRAO, centre national d'oncologie, Abidjan
 - 🔎 **Je recherche une alternance en Data Engineering / Data Analysis**
